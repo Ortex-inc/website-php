@@ -1,0 +1,22 @@
+html,body{width:100%;height:100%}
+.chat{
+  height:50%;
+  width:50%;
+  background-color:silver;
+}
+
+form ul{height:90px; width:90%;}
+form ul{overflow:hidden; 
+overflow-y:scroll;
+}
+
+ .online{
+height:90px; width:100px;
+position:absolute;
+background-color:red;
+top:0px;
+left:0px;
+}
+ .online{overflow:hidden; 
+overflow-y:scroll;
+}
